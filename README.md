@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+# 私について
+独学学生プログラマをしています。  
+プログラミングほぼ趣味のようなものなのでリポジトリの更新は興味があるものに偏ると思います。
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ban-himajin&show_icons=true&theme=radical)
+
 <!--
 **ban-himajin/ban-himajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
