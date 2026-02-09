@@ -4,7 +4,11 @@
 独学学生プログラマをしています。  
 プログラミングほぼ趣味のようなものなのでリポジトリの更新は興味があるものに偏ると思います。
 
+***
 
+<img alt="top langs" height="340px" src="https://github-profile-trophy-sigma-blush.vercel.app/?username=ban-himajin&theme=gitdimmed&column=5&date=1770596944" >
+
+##### あまり使用がよくわかってないのでわかり次第たびたび更新していきます...
 <!--
 **ban-himajin/ban-himajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
